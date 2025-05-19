@@ -1,6 +1,6 @@
 # CS321-NNHNL: Dependency Parsing with Stanza (Stanford NLP)
 
-This project demonstrates how to use the [Stanza](https://stanfordnlp.github.io/stanza/) library from Stanford NLP for dependency parsing in CoNLL-U format, and how to evaluate parsing quality using UAS and LAS metrics.
+This report demonstrates how to use the [Stanza](https://stanfordnlp.github.io/stanza/) library from Stanford NLP for dependency parsing in CoNLL-U format, and how to evaluate parsing quality using UAS and LAS metrics.
 
 ---
 
